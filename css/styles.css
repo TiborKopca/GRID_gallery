@@ -610,7 +610,12 @@ section {
     grid-column: 1 / 2;
     grid-row: 1 / 2;
   }
-
+  .about .tile-2 img {
+    width: 15rem;
+    height: 15rem;
+    border-radius: 50%;
+    object-fit: cover;
+  }
   .about .tile-3 {
     grid-column: 1 / 2;
     grid-row: 3 / 4;
@@ -721,7 +726,12 @@ section {
     grid-column: 1 / 2;
     grid-row: 2 / 3;
   }
-
+  .about .tile-2 img {
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+    object-fit: cover;
+  }
   .about .tile-3 {
     grid-column: 1 / 2;
     grid-row: 3 / 4;
