@@ -704,7 +704,7 @@ section {
   }
 
   .menu .about-tile .front {
-    background-image: url(img/old/Profile.jpg);
+    background-image: var(--imgProfile);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
